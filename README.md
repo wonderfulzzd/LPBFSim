@@ -1,2 +1,2 @@
-# DIIMLab
- DIIM Lab webpage
+# LPBFSim
+ LPBFSim webpage
